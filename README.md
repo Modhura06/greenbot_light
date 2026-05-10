@@ -25,16 +25,16 @@
 ## Documentation, Videos, and Community
 
 ### Official Documentation
-- ⚙️ **[ROBOTIS DYNAMIXEL](https://dynamixel.com/)** – Official website for DYNAMIXEL
-- 📚 **[ROBOTIS e-Manual for Dynamixel SDK](http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/)** – Official guide for Dynamixel SDK
-- 📚 **[ROBOTIS e-Manual for TurtleBot3](http://turtlebot3.robotis.com/)** – Official guide for TurtleBot3
-- 📚 **[ROBOTIS e-Manual for OpenMANIPULATOR-X](https://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/)** – Official guide for OpenMANIPULATOR-X
+- **[ROBOTIS DYNAMIXEL](https://dynamixel.com/)** – Official website for DYNAMIXEL
+- **[ROBOTIS e-Manual for Dynamixel SDK](http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/)** – Official guide for Dynamixel SDK
+- **[ROBOTIS e-Manual for TurtleBot3](http://turtlebot3.robotis.com/)** – Official guide for TurtleBot3
+-  **[ROBOTIS e-Manual for OpenMANIPULATOR-X](https://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/)** – Official guide for OpenMANIPULATOR-X
 
 ### Learning Resources
-- 🎥 **[ROBOTIS YouTube Channel](https://www.youtube.com/@ROBOTISCHANNEL)**
-- 🎥 **[ROBOTIS Open Source YouTube Channel](https://www.youtube.com/@ROBOTISOpenSourceTeam)**
-- 🎥 **[ROBOTIS TurtleBot3 YouTube Playlist](https://www.youtube.com/playlist?list=PLRG6WP3c31_XI3wlvHlx2Mp8BYqgqDURU)** – Video tutorials for TurtleBot3
-- 🎥 **[ROBOTIS OpenMANIPULATOR YouTube Playlist](https://www.youtube.com/playlist?list=PLRG6WP3c31_WpEsB6_Rdt3KhiopXQlUkb)** – Video tutorials for OpenMANIPULATOR
+-  **[ROBOTIS YouTube Channel](https://www.youtube.com/@ROBOTISCHANNEL)**
+-  **[ROBOTIS Open Source YouTube Channel](https://www.youtube.com/@ROBOTISOpenSourceTeam)**
+-  **[ROBOTIS TurtleBot3 YouTube Playlist](https://www.youtube.com/playlist?list=PLRG6WP3c31_XI3wlvHlx2Mp8BYqgqDURU)** – Video tutorials for TurtleBot3
+-  **[ROBOTIS OpenMANIPULATOR YouTube Playlist](https://www.youtube.com/playlist?list=PLRG6WP3c31_WpEsB6_Rdt3KhiopXQlUkb)** – Video tutorials for OpenMANIPULATOR
 
 ### Community & Support
-- 💬 **[ROBOTIS Community Forum](https://forum.robotis.com/)** – Get help and discuss with other users
+- **[ROBOTIS Community Forum](https://forum.robotis.com/)** – Get help and discuss with other users
